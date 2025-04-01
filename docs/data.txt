@@ -1,0 +1,21 @@
+Here is the snowfall data for Reno, Nevada, in the past 20 years in one long list:
+
+- 2005–2006: 21.4 inches
+- 2006–2007: 8.4 inches
+- 2007–2008: 23.0 inches
+- 2008–2009: 13.5 inches
+- 2009–2010: 34.8 inches
+- 2010–2011: 34.0 inches
+- 2011–2012: 8.2 inches
+- 2012–2013: 9.4 inches
+- 2013–2014: 6.2 inches
+- 2014–2015: 2.7 inches
+- 2015–2016: 31.1 inches
+- 2016–2017: 27.0 inches
+- 2017–2018: 24.9 inches
+- 2018–2019: 28.2 inches
+- 2019–2020: 17.6 inches
+- 2020–2021: 15.8 inches
+- 2021–2022: 13.4 inches
+- 2022–2023: 50.2 inches
+- 2023–2024: 28.4 inches
